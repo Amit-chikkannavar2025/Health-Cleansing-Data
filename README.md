@@ -54,10 +54,7 @@ Backend & Data Processing: JavaScript (Chart.js for visualization)
 File Handling: CSV data upload and analysis
 
 ## Contributors
-Sharath Kumar A (1BC21IS011)
-
-S Sai Harshavardhana (1BC21EC005)
-
-Naresh N
-
-Tejas M S
+Ayush Torgalmath
+Amit Chikkannavar
+Veeresh Tadakod
+Keshav Kerkar
